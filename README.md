@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Hi, I'm Mahmoud Rahhal
 
-<!--
-**Mahmoud-rahhal/Mahmoud-rahhal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Software Developer | Beginner but Highly Motivated**  
+💡 I’m currently learning modern programming concepts and building projects to improve my skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌱 I’m currently learning **web development**, **C#**, **PHP**, **Java**, and **Python**.  
+- 🔥 Passionate about **Object-Oriented Programming (OOP)** and writing clean, maintainable code.  
+- 🎯 My goal is to grow into a strong full-stack developer.  
+- 📚 Always improving my skills step by step.
+
+---
+
+## 🛠️ Technologies & Tools I Work With
+
+### 💻 Programming Languages
+- C  
+- C#  
+- Java  
+- Python  
+- PHP  
+
+### 🌐 Web & Backend Development
+- Laravel  
+- XAMPP  
+
+### 🗄️ Databases
+- SQL Server  
+- MySQL  
+- Oracle  
+
+### 🧠 Concepts & Methodologies
+- Object-Oriented Programming (OOP)  
+- SOLID Principles (learning)  
+- Design Patterns (Factory, Singleton)
+
+### 🛠️ Tools
+- Git & GitHub  
+- Visual Studio  
+- VS Code  
+
+---
+
+## 📌 Current Focus
+
+- Building practical projects using C#, PHP, and Java  
+- Improving my understanding of databases and backend logic  
+- Enhancing OOP and clean code skills  
+- Learning Git/GitHub workflow in depth
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: *mahmoudrahal766@gmail.com*  
+- 💼 LinkedIn: *linkedin.com/in/mahmoud-rahhal*
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my work and follow for updates.*
